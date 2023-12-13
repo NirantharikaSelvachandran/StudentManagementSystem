@@ -1,0 +1,45 @@
+.card{
+    border: none;
+    padding: 10px;
+}
+
+.form-group{
+    padding: 5px;
+}
+
+label,input{
+    font-size: 16px;
+}
+
+table{
+    border: 1px solid black;
+    width: 1000px;    
+    background-color: black;
+}
+
+th{
+    text-align: center;
+    font-size: 20px;
+}
+
+td{
+    font-size: 18px;
+}
+
+tr, th, td{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.btn-primary{
+    font-size: 20px;
+}
+
+.btn-success, .btn-danger{
+    font-size: 17px;
+    margin: 5px;
+}
+ button:hover{
+    background-color: black;
+    color: white;
+ }
